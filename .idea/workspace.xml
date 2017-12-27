@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4a31f14-ed13-48c5-85de-371d558fd79e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_includes/sidenav.html" afterPath="$PROJECT_DIR$/_includes/sidenav.html" />
       <change beforePath="$PROJECT_DIR$/_sass/minima/_layout.scss" afterPath="$PROJECT_DIR$/_sass/minima/_layout.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +16,8 @@
       <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/minima/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="68" column="41" lean-forward="true" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
+            <state relative-caret-position="501">
+              <caret line="216" column="16" lean-forward="true" selection-start-line="216" selection-start-column="16" selection-end-line="216" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -42,6 +40,7 @@
       <find>sidenav</find>
       <find>content</find>
       <find>cards</find>
+      <find>hover</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -174,12 +173,12 @@
       <updated>1514296169663</updated>
       <workItem from="1514296172800" duration="1071000" />
       <workItem from="1514307251089" duration="5999000" />
-      <workItem from="1514371518729" duration="9566000" />
+      <workItem from="1514371518729" duration="9689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16636000" />
+    <option name="totallyTimeSpent" value="16759000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="89" y="-9" width="2321" height="1368" extended-state="6" />
@@ -581,8 +580,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/minima/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="68" column="41" lean-forward="true" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
+        <state relative-caret-position="501">
+          <caret line="216" column="16" lean-forward="true" selection-start-line="216" selection-start-column="16" selection-end-line="216" selection-end-column="16" />
           <folding />
         </state>
       </provider>
