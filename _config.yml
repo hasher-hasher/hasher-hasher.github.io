@@ -25,6 +25,8 @@ url: "http://renanhasher.com" # the base hostname & protocol for your site, e.g.
 # Token for simpleform
 simpleform-token: db5ffa2b7e4b54bfecdc424ea6ffc199
 
+permalink: /:title
+
 # Build settings
 markdown: kramdown
 theme: minima
