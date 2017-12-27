@@ -1,0 +1,21 @@
+---
+layout: default
+permalink: /web/
+---
+
+<div class="container" style="margin-top: 15px;">
+    <div class="row">
+        {% for post in site.categories.web %}
+        <div class="col-md-4 mb-4">
+            <div class="cards" style="background-color: #ff4242;">
+                        <div class="card-header text-center" style="background-color: #ff4242"><a class="link-style" href="{{ post.url }}">{{ post.title }}</a></div>
+                        <div class="card-info">
+                            <div class="card-date text-center float-right">{{ post.date | date: "%-d/%-m/%Y" }}</div>
+                            <div class="card-category text-center float-left">{% if post.categories[0] != nil %}<i class="fa fa-tags" aria-hidden="true"></i><a class="link-style" href="{{ site.url }}/{{ post.categories }}">{% endif %}{{ post.categories[0] }}</a></div>
+                        </div>
+                        <div class="card-description text-left" style="background-color: #ff4242">{{ post.description}}</div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
