@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<div class="container" style="margin-top: 15px;">
+    <div class="row">
+        {% for post in site.posts %}
+        <div class="col-md-4 mb-4">
+            {% if post.categories[0] == "jekyll" %}
+                <div class="cards" style="background-color: #ff4242;">
+            {% elsif post.categories[0] == "update" %}
+                <div class="cards" style="background-color: #51ff7a;">
+            {% else %}
+                <div class="cards" style="background-color: #c1c1c1">
+            {% endif %}
+
+                {% if post.categories[0] == "jekyll" %}
+                    <div class="card-header text-center" style="background-color: #ff4242"><a class="link-style" href="{{ post.url }}">{{ post.title }}</a></div>
+                {% elsif post.categories[0] == "update" %}
+                    <div class="card-header text-center" style="background-color: #51ff7a"><a class="link-style" href="{{ post.url }}">{{ post.title }}</a></div>
+                {% else %}
+                    <div class="card-header text-center" style="background-color: #c1c1c1;"><a class="link-style" href="{{ post.url }}">{{ post.title }}</a></div>
+                {% endif %}
+                <div class="card-info">
+                    <div class="card-date text-center float-right">{{ post.date | date: "%-d/%-m/%Y" }}</div>
+                    <div class="card-category text-center float-left"><i class="fa fa-tags" aria-hidden="true"></i>{{ post.categories[0] }}</div>
+                </div>
+                {% if post.categories[0] == "jekyll" %}
+                    <div class="card-description text-left" style="background-color: #ff4242">{{ post.description}}</div>
+                {% elsif post.categories[0] == "update" %}
+                    <div class="card-description text-left" style="background-color: #51ff7a">{{ post.description}}</div>
+                {% else %}
+                    <div class="card-description text-left" style="background-color: #c1c1c1">{{ post.description}}</div>
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
