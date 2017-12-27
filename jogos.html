@@ -11,7 +11,7 @@ permalink: /jogos/
                         <div class="card-header text-center" style="background-color: #51ff7a"><a class="link-style" href="{{ post.url }}">{{ post.title }}</a></div>
                         <div class="card-info">
                             <div class="card-date text-center float-right">{{ post.date | date: "%-d/%-m/%Y" }}</div>
-                            <div class="card-category text-center float-left">{% if post.categories[0] != nil %}<i class="fa fa-tags" aria-hidden="true"></i><a class="link-style" href="{{ site.url }}/{{ post.categories }}">{% endif %}{{ post.categories[0] }}</a></div>
+                            <div class="card-category text-center float-left">{% if post.categories[0] != nil %}<i class="fa fa-tags" style="padding-right: 3px" aria-hidden="true"></i><a class="link-style" href="{{ site.url }}/{{ post.categories }}">{% endif %}{{ post.categories[0] }}</a></div>
                         </div>
                         <div class="card-description text-left" style="background-color: #51ff7a">{{ post.description}}</div>
                     </div>
