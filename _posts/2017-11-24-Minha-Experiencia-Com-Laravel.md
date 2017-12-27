@@ -21,7 +21,7 @@ Não sei se é por que sou noob em PHP e nunca tive contato com outra ferramenta
 
 Seed é um recurso o qual a finalidade é automatizar a criação de dados no banco de dados. Vamos supor que você esta no início do desenvolvimento do seu sistema e precisa sempre estar restaurando a base com dados. Com um Seeder configurado, assim que você limpar o seu banco de dados, é só rodar o comando **php artisan db:seed** (ou php artisan migrate:fresh para derrubar os dados e fazer as migrações automaticamente) que ele criará os dados no banco de acordo com sua configuração. Para mim isso foi muito útil e poupou muito tempo, pois tinha que limpar o db e fazer novamente as migrações constantemente quando eu estava escrevendo as migrations. Mas, vamos incluir também que você precisa de dados em quantidade para fazer seus teste, ou seja, precisa de dados como nome, email, telefone, endereço em grandes quantidades, e que sejam gerados automaticamente. Um outro recurso presente que facilita (e muito) a resolução desse problema é o [Faker](https://github.com/fzaninotto/Faker), que cria os mais variados dados de forma aleatória pra você. Abaixo segue um exemplo de um Seeder utilizando o Faker.
 
-![Laravel Seeder]({{site.url}}/images/Seeder.PNG)
+![Laravel Seeder]({{site.url}}/assets/images/Seeder.PNG)
 
 ### Artisan
 
