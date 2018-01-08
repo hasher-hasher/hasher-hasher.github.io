@@ -7,36 +7,36 @@ layout: default
         {% for post in site.posts %}
         <div class="col-md-4 mb-4">
             {% if post.categories[0] == "web" %}
-                <div class="cards" style="background-color: #ff4242;">
+            <div class="cards" style="background-color: #ff4242;">
             {% elsif post.categories[0] == "jogos" %}
-                <div class="cards" style="background-color: #51ff7a;">
+            <div class="cards" style="background-color: #51ff7a;">
             {% elsif post.categories[0] == "unity3d" %}
-                <div class="cards" style="background-color: #4286f4;">
+            <div class="cards" style="background-color: #4286f4;">
             {% else %}
-                <div class="cards" style="background-color: #c1c1c1">
+            <div class="cards" style="background-color: #c1c1c1">
             {% endif %}
 
                 {% if post.categories[0] == "web" %}
-                    <div class="card-header text-center" style="background-color: #ff4242"><a class="link-style" href="{{ post.url }}">{{ post.title }}</a></div>
+                    <a class="link-style" href="{{ post.url }}"><div class="card-header text-center" style="background-color: #ff4242">{{ post.title }}</div></a>
                 {% elsif post.categories[0] == "jogos" %}
-                    <div class="card-header text-center" style="background-color: #51ff7a"><a class="link-style" href="{{ post.url }}">{{ post.title }}</a></div>
+                    <a class="link-style" href="{{ post.url }}"><div class="card-header text-center" style="background-color: #51ff7a">{{ post.title }}</div></a>
                 {% elsif post.categories[0] == "unity3d" %}
-                    <div class="card-header text-center" style="background-color: #4286f4"><a class="link-style" href="{{ post.url }}">{{ post.title }}</a></div>
+                    <a class="link-style" href="{{ post.url }}"><div class="card-header text-center" style="background-color: #4286f4">{{ post.title }}</div></a>
                 {% else %}
-                    <div class="card-header text-center" style="background-color: #c1c1c1;"><a class="link-style" href="{{ post.url }}">{{ post.title }}</a></div>
+                    <a class="link-style" href="{{ post.url }}"><div class="card-header text-center" style="background-color: #c1c1c1;">{{ post.title }}</div></a>
                 {% endif %}
                 <div class="card-info">
                     <div class="card-date text-center float-right">{{ post.date | date: "%-d/%-m/%Y" }}</div>
                     <div class="card-category text-center float-left">{% if post.categories[0] != nil %}<i class="fa fa-tags" style="padding-right: 3px" aria-hidden="true"></i><a class="link-style" href="{{ site.url }}/{{ post.categories }}">{% endif %}{{ post.categories[0] }}</a></div>
                 </div>
                 {% if post.categories[0] == "web" %}
-                    <div class="card-description text-left" style="background-color: #ff4242">{{ post.description}}</div>
+                    <a class="link-style" href="{{ post.url }}"><div class="card-description text-left" style="background-color: #ff4242">{{ post.description }}</div></a>
                 {% elsif post.categories[0] == "jogos" %}
-                    <div class="card-description text-left" style="background-color: #51ff7a">{{ post.description}}</div>
+                    <a class="link-style" href="{{ post.url }}"><div class="card-description text-left" style="background-color: #51ff7a">{{ post.description }}</div></a>
                 {% elsif post.categories[0] == "unity3d" %}
-                    <div class="card-description text-left" style="background-color: #4286f4">{{ post.description}}</div>
+                    <a class="link-style" href="{{ post.url }}"><div class="card-description text-left" style="background-color: #4286f4">{{ post.description }}</div></a>
                 {% else %}
-                    <div class="card-description text-left" style="background-color: #c1c1c1">{{ post.description}}</div>
+                    <a class="link-style" href="{{ post.url }}"><div class="card-description text-left" style="background-color: #c1c1c1">{{ post.description }}</div></a>
                 {% endif %}
             </div>
         </div>
