@@ -1,19 +1,19 @@
 ---
 layout: default
-permalink: /jogos/
+permalink: /misc/
 ---
 
 <div class="container" style="margin-top: 15px;">
     <div class="row">
-        {% for post in site.categories.jogos %}
+        {% for post in site.categories.misc %}
         <div class="col-md-4 mb-4">
-            <div class="cards" style="background-color: #51ff7a;">
-                        <div class="card-header text-center" style="background-color: #51ff7a"><a class="link-style" href="{{ post.url }}">{{ post.title }}</a></div>
+            <div class="cards" style="background-color: #86f780;">
+                        <div class="card-header text-center" style="background-color: #86f780"><a class="link-style" href="{{ post.url }}">{{ post.title }}</a></div>
                         <div class="card-info">
                             <div class="card-date text-center float-right">{{ post.date | date: "%-d/%-m/%Y" }}</div>
                             <div class="card-category text-center float-left">{% if post.categories[0] != nil %}<i class="fa fa-tags" style="padding-right: 3px" aria-hidden="true"></i><a class="link-style" href="{{ site.url }}/{{ post.categories }}">{% endif %}{{ post.categories[0] }}</a></div>
                         </div>
-                        <div class="card-description text-left" style="background-color: #51ff7a">{{ post.description}}</div>
+                        <div class="card-description text-left" style="background-color: #86f780">{{ post.description}}</div>
                     </div>
                 </div>
                 {% endfor %}
