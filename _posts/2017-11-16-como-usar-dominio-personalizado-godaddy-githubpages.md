@@ -3,7 +3,7 @@ layout: post
 title: Como configurar dominio GoDaddy para usa-lo com o github-pages
 author: Renan Rocha
 description: Como configurar seu dominio para usa-lo com o github-pages
-categories: web
+categories: webdev
 lang: pt-BR
 ---
 

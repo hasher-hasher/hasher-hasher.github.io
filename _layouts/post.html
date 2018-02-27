@@ -2,14 +2,12 @@
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-    {% if page.categories[0] == "web" %}
-        <h2 class="post-title text-center" style="background-color: #ff4242">{{ page.title }}</h2>
-    {% elsif page.categories[0] == "jogos" %}
-        <h2 class="post-title text-center" style="background-color: #51ff7a">{{ page.title }}</h2>
-    {% elsif page.categories[0] == "unity3d" %}
-        <h2 class="post-title text-center" style="background-color: #4286f4">{{ page.title }}</h2>
-    {% else %}
-        <h2 class="post-title text-center" style="background-color: #c1c1c1">{{ page.title }}</h2>
+    {% if page.categories[0] == "webdev" %}
+        <h2 class="post-title text-center" style="background-color: #ff5454">{{ page.title }}</h2>
+    {% elsif page.categories[0] == "gamedev" %}
+        <h2 class="post-title text-center" style="background-color: #4ba4ed">{{ page.title }}</h2>
+    {% elsif page.categories[0] == "misc" %}
+        <h2 class="post-title text-center" style="background-color: #86f780">{{ page.title }}</h2>
     {% endif %}
 
     <div class="container">

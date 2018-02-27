@@ -3,7 +3,7 @@ layout: post
 title: Minha experiência com Laravel
 author: Renan Rocha
 description: Relatos sobre um novato no framework PHP Laravel.
-categories: web
+categories: webdev
 lang: pt-BR
 ---
 

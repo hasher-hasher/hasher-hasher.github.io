@@ -3,7 +3,7 @@ layout: post
 title: Desvendando as famigeradas Coroutines
 author: Renan Rocha
 description: Tudo sobre essa função poderosa na Unity3D
-categories: unity3d
+categories: gamedev
 lang: pt-BR
 ---
 
