@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4a31f14-ed13-48c5-85de-371d558fd79e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.md" afterPath="$PROJECT_DIR$/contact.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newsletter.md" afterPath="$PROJECT_DIR$/newsletter.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-11-16-como-usar-dominio-personalizado-godaddy-githubpages.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-11-24-Minha-Experiencia-Com-Laravel.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,12 +15,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="contact.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contact.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="231">
-                <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+              <first_editor relative-caret-position="441">
+                <caret line="21" column="63" lean-forward="true" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -27,25 +28,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="newsletter.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="newsletter.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/newsletter.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="273">
-                <caret line="13" column="80" lean-forward="false" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-11-28-Desvendando as famigeradas Coroutines.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-11-28-Desvendando as famigeradas Coroutines.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="252">
-                <caret line="15" column="78" lean-forward="false" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+              <first_editor relative-caret-position="315">
+                <caret line="15" column="66" lean-forward="true" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -210,12 +198,12 @@
       <workItem from="1518786963625" duration="5000" />
       <workItem from="1518787148296" duration="298000" />
       <workItem from="1519745777718" duration="624000" />
-      <workItem from="1519748990519" duration="4162000" />
+      <workItem from="1519748990519" duration="4302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29111000" />
+    <option name="totallyTimeSpent" value="29251000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="-9" width="1859" height="1098" extended-state="6" />
@@ -612,22 +600,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.md">
+    <entry file="file://$PROJECT_DIR$/newsletter.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="231">
-            <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+          <first_editor relative-caret-position="315">
+            <caret line="15" column="66" lean-forward="true" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newsletter.md">
+    <entry file="file://$PROJECT_DIR$/contact.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="273">
-            <caret line="13" column="80" lean-forward="false" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
+          <first_editor relative-caret-position="441">
+            <caret line="21" column="63" lean-forward="true" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
             <folding />
           </first_editor>
           <second_editor />
