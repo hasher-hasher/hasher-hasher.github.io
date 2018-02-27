@@ -11,7 +11,7 @@ permalink: /newsletter/
   
   <div class="form-group">
     <label for="InputEmail">Email</label>
-    <input type="email" class="form-control" id="InputEmail" placeholder="Agora seu email :)">
+    <input type="email" class="form-control" id="InputEmail" placeholder="Digite seu email :)">
   </div>
   <button type="submit" class="btn btn-primary">Inscrever</button>
 </form>

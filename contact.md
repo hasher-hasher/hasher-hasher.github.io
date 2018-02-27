@@ -4,6 +4,8 @@ title: Contato
 permalink: /contact/
 ---
 
+Se interessou por alguma das minhas habilidades e quer entrar em contato? Ou apenas dizer um oi? Entre em contato comigo através deste form, ou mande um email para <a href="mailto:renanoar04@gmail.com">renanoar04@gmail.com</a>
+
 <form class="form-desktop form-mobile" action="https://getsimpleform.com/messages?form_api_token={{site.simpleform-token}}" method="POST">
   <div class="form-group">
     <label for="InputName">Nome</label>
