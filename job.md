@@ -6,9 +6,7 @@ permalink: /job/
 
 Além de produzir conteúdo para esse blog, eu também faço [várias outras coisas](http://renanhasher.com/about)
 
-Se tiver interesse em algum serviço que eu possa prestar para você, entre em contato comigo através do [formulário de contato](http://renanhasher.com/contact).
-
-Caso você queira dar um olhada nas minhas gigs do fiverr, clique na imagem abaixo! 
+Se você tiver interesse no meu trabalho, dê uma olhadinha nas minhas gigs do fiverr por meio do link abaixo. Ou ainda, se não encontrou o que queria por lá, você pode entrar em contato comigo através do [formulário de contato](http://renanhasher.com/contact). 
 <br>
 <br>
 <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>

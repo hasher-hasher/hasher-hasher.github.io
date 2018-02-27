@@ -4,13 +4,13 @@ title: Sobre
 permalink: /about/
 ---
 
-Meu nome é Renan Rocha, sou um sonhador que curte programar, aprender coisas novas, e principalmente, ter liberdade fora de um escritório. Através desse blog e projetos que você pode encontrar nele, pretendo reunir recursos para finalmente viabilizar meu sonho de ser um nômade digital!
+Meu nome é Renan Rocha, sou um sonhador que curte programar, aprender coisas novas e, principalmente, ter liberdade fora de um escritório. Por meio deste blog e dos projetos que você pode encontrar nele, pretendo reunir recursos para finalmente viabilizar meu sonho de ser um nômade digital!
 
-Atualmente sou programador python na empresa [Websis](http://www.websis.com.br/), desenvolvo jogos digitais e estudo game design há 6 anos, e sou apaixonado por criar coisas utilizando tecnologias.
+Atualmente trabalho na função de programador python na empresa Websis. Quando não estou na empresa, prossigo meu estudo de game design - que se iniciou há seis anos -, desenvolvo jogos digitais e continuo apaixonado por realizar invenções tecnológicas.
 
-Conclui em 2016 minha formação em Engenharia de Computação pela universidade UNICEUB de Brasília. Já dei aula e desenvolvi em diversos lugares como [PRONATEC](http://pronatec.mec.gov.br/inscricao/), RedZero instituto de computação gráfica, [LightBase](http://www.lightbase.com.br/) entre outras, ministrando a matéria 'desenvolvimento de jogos digitais' e programando para Web. Curto muito participar de gamejams e fazer coisas em 48 hrs <stroke>inclusive meus projetos pessoais kkk</stroke>
+Conclui minha formação em Engenharia de Computação em 2016  pela universidade UNICEUB de Brasília. Dentre os ambientes onde ministrei aulas sobre jogos digitais e usei minha habilidade como programador para desenvolver projetos, estão: PRONATEC, RedZero Instituto de Computação Gráfica e LightBase. 
 
-No meu tempo livre, curto jogar, tocar instrumentos musicais e estudar coisas novas.
+No meu tempo livre, gosto de participar de Gamejams. Também curto jogar e tocar instrumentos musicais. Além disso, é claro, estou sempre focado em meios concretos de realizar minhas ideias e objetivos. 
 
 # Habilidades
 
