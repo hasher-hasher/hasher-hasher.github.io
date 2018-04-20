@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Trabalhos
-permalink: /job/
+permalink: "/job/"
+layout: page
 ---
 
 Além de produzir conteúdo para esse blog, eu também faço [várias outras coisas](http://renanhasher.com/about)

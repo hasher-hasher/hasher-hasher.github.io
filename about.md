@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Sobre
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 Meu nome é Renan Rocha, sou um sonhador que curte programar, aprender coisas novas e, principalmente, ter liberdade fora de um escritório. Por meio deste blog e dos projetos que você pode encontrar nele, pretendo reunir recursos para finalmente viabilizar meu sonho de ser um nômade digital!

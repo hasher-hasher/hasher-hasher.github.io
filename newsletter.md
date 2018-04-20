@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Newsletter
-permalink: /newsletter/
+permalink: "/newsletter/"
+layout: page
 ---
 
 <p class="newsletter-desktop">Quer receber email sempre que algo novo acontecer por aqui?</p>

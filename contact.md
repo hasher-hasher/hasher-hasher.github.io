@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Contato
-permalink: /contact/
+permalink: "/contact/"
+layout: page
 ---
 
 Se interessou por alguma das minhas habilidades e quer entrar em contato? Ou apenas dizer um oi? Entre em contato comigo através deste form, ou mande um email para <a href="mailto:renanoar04@gmail.com">renanoar04@gmail.com</a>

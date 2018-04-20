@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Doações
-permalink: /donate/
+permalink: "/donate/"
+layout: page
 ---
 
 Se de alguma forma eu consegui te ajudar, ou você apenas deseja contribuir com uma doação, aqui você pode fazer isso, e eu agradeço MUITO desde já :)

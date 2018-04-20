@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Desvendando as famigeradas Coroutines
+date: 2017-11-28 00:00:00 Z
+categories:
+- gamedev
+layout: post
 author: Renan Rocha
 description: Tudo sobre essa função poderosa na Unity3D
-categories: gamedev
 lang: pt-BR
 ---
 
