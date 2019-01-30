@@ -3,6 +3,9 @@ title: GGJ 2019
 date: 2019-01-30 21:37:00 Z
 categories:
 - misc
+author: Renan Rocha
+description: Como foi participar de uma das maiores GameJams do mundo!!!
+lang: pt-br
 ---
 
 Como um tremendo apaixonado tanto por jogar quanto por fazer jogos, não pude me conter em logo me cadastrar quando vi que a [Indie Warehouse](http://indiewarehouse.com.br) iria sediar a Global Game Jam aqui em Brasília e tinha aberto as inscrições. Eu já havia participado de algumas edições anteriores mas realmente havia muuuito tempo que eu não participava de uma Gamejam. Admito que um pouco de preguiça e talvez descrença de que eu iria conseguir terminar um game interessante foram os principais motivos desse período sem interagir com a comunidade. Mas esse ano foi diferente e eu me senti mais energizado do que nunca para limpar a poeira do Unity, fazer novas amizades e me divertir com tudo isso.
