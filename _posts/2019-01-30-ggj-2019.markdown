@@ -1,5 +1,5 @@
 ---
-title: GGJ 2019
+title: Como foi participar da GGJ 2019
 date: 2019-01-30 21:37:00 Z
 categories:
 - misc
