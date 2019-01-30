@@ -1,0 +1,18 @@
+---
+title: GGJ 2019
+date: 2019-01-30 21:37:00 Z
+categories:
+- misc
+---
+
+Como um tremendo apaixonado tanto por jogar quanto por fazer jogos, não pude me conter em logo me cadastrar quando vi que a [Indie Warehouse](http://indiewarehouse.com.br) iria sediar a Global Game Jam aqui em Brasília e tinha aberto as inscrições. Eu já havia participado de algumas edições anteriores mas realmente havia muuuito tempo que eu não participava de uma Gamejam. Admito que um pouco de preguiça e talvez descrença de que eu iria conseguir terminar um game interessante foram os principais motivos desse período sem interagir com a comunidade. Mas esse ano foi diferente e eu me senti mais energizado do que nunca para limpar a poeira do Unity, fazer novas amizades e me divertir com tudo isso.
+
+O tema foi "What home means to you" ou "O que lar significa para você". Um tema que pode pender para um lado bem instrospectivo e recluso, não é mesmo? Dando uma pequena volta no evento e escutando conversar alheias já era possível perceber que a maioria das pessoas estavam abordando o tema de uma forma bem emotiva, e eu não fui diferente haha, logo pensei em fazer um game suuuper deprê que ia fazer as pessoas refletirem e todas essas coisas de game impactante. Demorei um tempo pra achar uma equipe (Durante um momento realmente pensei que essa seria a fatídica gamejam que eu iria acabar fazendo meu jogo sozinho), mas no final acabei encontrando algumas pessoas que estavam sem grupo, e que equipe legal! Conversamos bastante o evento inteiro e tivemos uma interação muuuuuuuito massa. Logo quando começamos a fazer o brainstorm eu já joguei a minha ideia na mesa, que foi trucidada por uma ideia muito melhor que veio de um dos integrantes do grupo ... Já que todo mundo estava tendendo a fazer um game com tema bem deprê, que tal fazer um super comédia que ia fazer todo mundo dar risada e que fosse super legal de desenvolver? Essa foi a premissa escolhida que deu origem a um dos jogos mais hilários que eu já fiz/joguei. Basicamente o objetivo do jogo é você desaparecer com parentes chatos que tentam invadir sua casa para uma daquelas reuniões de família kkk. A ideia foi super aprovada por todo mundo e ainda adicionamos vários elementos localizados para deixar a experiência ainda mais divertida (Inclusive essa foi uma das discussões, pois se a ideia fosse que todo mundo, independente da língua, fosse jogar, teríamos que alterar esse fator). Sexta de noite eu fiz uma especia de documentação de como eu faria a arquitetura do projeto, Sábado eu terminei a programação da estrutura principal do jogo e Domingo gastamos só para polir o jogo. Que final de semana divertido.
+
+Ter passado tanto tempo parado, sem fazer jogos ou algo relacionado, me fez perceber o quanto estar ligado de alguma forma a coisas que você gosta e se interessa é importante. Sempre que puder tirar um tempo pra poder se dar atenção, seja com um final de semana legal ou uma atividade que te desperte interesse, tire! No final você não vai se arrepender, garanto!
+
+Este post foi escrito bem nas pressas (peço desculpa por isso) mas só queria registrar sobre como esse evento super legal foi pra mim.
+
+Para quem tiver interesse e quiser dar uma olhada, aqui esta o [link](https://github.com/hasher-hasher/GGJ2019) para o repositório do jogo no meu github e [aqui](https://globalgamejam.org/2019/games/familia-brasileira-simulator-redux) esta nossa entry para a GGJ com a build para windows e algumas coisas mais.
+
+Abraço galera e até o próximo post!
