@@ -1,6 +1,12 @@
 ---
 title: TinyEngine - Uma game engine legal para aprender
 date: 2019-03-01 19:42:00 Z
+categories:
+- gamedev
+author: Renan Rocha
+description: Uma game engine feita para facilitar o aprendizado de como se faz um
+  jogo em Python!
+lang: pt-br
 ---
 
 Olá pessoal!
